@@ -1,0 +1,1 @@
+cmd_/root/u50/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/u50/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.ko /root/u50/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.o /root/u50/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.mod.o
